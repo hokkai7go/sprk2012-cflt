@@ -1,0 +1,29 @@
+---
+presenters:
+  - name:
+      en: Yutaro Sugai # required
+      ja: 菅井 祐太朗
+    github: hokkai7go # required
+    affiliation:
+      en: RubySapporo, Asakusa.rb, Yokohama.rb # required
+      ja: Ruby札幌, Asakusa.rb, Yokohama.rb
+    bio:
+      en: TBA
+      ja: LT中に話します
+title:
+  en: |- # required
+    [ANN]Changing_Life_with_Ruby
+  ja: # optional
+abstract: # write in markdown
+  en: |- # required
+    I tried to change my life. and it was successful. Thanks to Ruby. I will talk about my relationship with Ruby until now.
+  ja: |-
+    生活を変えようとしてみました。ありがたいことに成功することができました。Rubyとのおかげです。自分のこれまでのRubyとの関わり方について話します。
+language: Japanese # required
+references: # optional
+  en: |- # write in markdown
+    - [My twitter](https://twitter.com/#!/hokkai7go)
+    - [My blog](http://d.hatena.ne.jp/lncr_ct9a)
+  ja: |- # write in markdown
+    - [My twitter](https://twitter.com/#!/twitter_handle)
+    - [My blog](http://d.hatena.ne.jp/lncr_ct9a
